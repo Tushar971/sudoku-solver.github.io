@@ -1,0 +1,45 @@
+#initialBoard {
+    text-align: left;
+    width: auto;
+    margin: auto;
+}
+#Submit {
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+#answerBoard {
+    text-align: right;
+    width: auto;
+    margin: auto;
+    color: aliceblue;
+}
+p{
+    font-size: 20px;
+}
+input{
+    font-size: 17px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+}
+button{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 5%;
+}
+.btn-primary a:hover {
+    background-color: rgb(247, 10, 10);
+    color: rgb(250, 6, 6);
+}
+.heading{
+    text-align: center;
+    background-color: rgba(162, 162, 163, 0.668);
+    border-radius: 2px;
+    color :rgb(11, 1, 1);
+    font-size: 60px;
+}
